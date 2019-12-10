@@ -18,6 +18,6 @@ class Author
     post.author = self 
   end 
   
-  def 
+  def self.post_count 
   
 end 
