@@ -8,5 +8,7 @@ class Song
     @@all << self
   end 
   
+  def
+  
   
 end 
